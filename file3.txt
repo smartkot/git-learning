@@ -1,1 +1,2 @@
 New feature.
+Line from remote repo.

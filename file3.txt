@@ -1,2 +1,3 @@
 New feature.
 Line from local repo.
+Line from remote repo.

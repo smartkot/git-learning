@@ -1,1 +1,2 @@
 Text for new branch.
+New line from dev-branch.
